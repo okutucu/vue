@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productCategory": 2,
+      "productName": "Chai",
+      "productDescription": "48 -6 oz jars",
+      "productPrice": "24",
+      "productInStock": 52
+    },
+    {
+      "id": 2,
+      "productCategory": 1,
+      "productName": "Chang",
+      "productDescription": "48 -12 oz bottles",
+      "productPrice": "21",
+      "productInStock": 17
+    },
+    {
+      "id": 3,
+      "productCategory": 3,
+      "productName": "Chef Anton's",
+      "productDescription": "48 -6 oz jars",
+      "productPrice": "87",
+      "productInStock": 52
+    },
+    {
+      "id": 4,
+      "productCategory": 5,
+      "productName": "Cumbo Mix",
+      "productDescription": "36 boxes",
+      "productPrice": "76",
+      "productInStock": 44
+    },
+    {
+      "id": 5,
+      "productCategory": 6,
+      "productName": "Grandma Bread",
+      "productDescription": "12 boxes",
+      "productPrice": "58",
+      "productInStock": 82
+    },
+    {
+      "id": 6,
+      "productCategory": 4,
+      "productName": "Cajun Mix",
+      "productDescription": "82 - 7 jars",
+      "productPrice": "28",
+      "productInStock": "77"
+    },
+    {
+      "id": 7,
+      "productName": "Acer S14",
+      "productCategory": "Laptop 2 ",
+      "productDescription": "Green Laptop 23 ",
+      "productPrice": "6000",
+      "productInStock": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confectios",
+      "seoUrl": "confectios"
+    },
+    {
+      "id": 4,
+      "categoryName": "Dairy Products",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Grains",
+      "seoUrl": "grains"
+    },
+    {
+      "id": 6,
+      "categoryName": "Meat",
+      "seoUrl": "meat"
+    }
+  ]
+}
