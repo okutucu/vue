@@ -1,5 +1,10 @@
 # project
 
+install vue npms and api to do the project
+npm install -g json-server
+
+You need to pull with json-server --watch db.json
+
 ## Project setup
 ```
 npm install
