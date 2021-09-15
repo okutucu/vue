@@ -78,7 +78,7 @@ export default {
       this.$emit("delete:product",product)
     },
     handleUpdate(product){
-      this.updateId =product.id   
+      this.updateId =product.id
     },
     handleSave(product){
       this.$emit("update:product",product)
